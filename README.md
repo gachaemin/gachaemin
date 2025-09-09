@@ -1,23 +1,38 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=180&section=header&text=ChaeMin%20Hub&fontSize=80" />
 
+
 ## 🛠 Tech Stack
 
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
+
+### Backend
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=databricks&logoColor=white" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
+</p>
+
+### Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 </p>
+
 
 ---
 
@@ -26,7 +41,7 @@
 - 가천대학교 AI 학술동아리 **A.ing 2기** (2024.03 ~ 2024.06)
 - 가천대학교 AI 학술동아리 **A.ing 2.5기** (2024.06 ~ 2024.08)
 - 가천대학교 **카카오엔터프라이즈 SW 아카데미 6기** (2025.03 ~ 2025.06)
-- 가천대학교 기업실무프로젝트 **DKTechin PBL** (2025.07 ~ ing)
+- 가천대학교 기업실무프로젝트 **DKTechin PBL** (2025.07 ~ 2025.08)
 
 ---
 
@@ -57,6 +72,21 @@
   <img src="https://img.shields.io/badge/팀리더-담당자-0E8A16?style=flat" />
   <img src="https://img.shields.io/badge/백엔드-담당자-0E8A16?style=flat" />
 </p>
+
+
+### 🔹 [HiO - RAG 기반 관리자 플랫폼](private repository)
+> FAQ, 용어사전, 사내 규정, 업무 매뉴얼 데이터를 등록·관리하여 챗봇 학습에 활용할 수 있는 **관리자 전용 웹 플랫폼**입니다.  
+> 본 프로젝트에서 **프론트엔드 개발자**로 참여하여,  
+> **Next.js 기반 화면 구현**, **카테고리/태그 관리 기능 개발**, **문서 업로드 및 버전 관리**, **히스토리 모달 UI 및 데이터 연동** 등을 담당했습니다.  
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/관리자-데이터%20플랫폼-blue?style=flat" />
+  <img src="https://img.shields.io/badge/프론트엔드-담당자-0E8A16?style=flat" />
+</p>
+
 
 ---
 
