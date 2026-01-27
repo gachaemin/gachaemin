@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=180&section=header&text=ChaeMin%20Hub&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=180&section=header&text=ChaeMin&fontSize=80" />
 
 
 ## 🛠 Tech Stack
