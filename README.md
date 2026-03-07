@@ -23,6 +23,8 @@
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
 </p>
@@ -42,7 +44,8 @@
 - 가천대학교 AI 학술동아리 **A.ing 2.5기** (2024.06 ~ 2024.08)
 - 가천대학교 **카카오엔터프라이즈 SW 아카데미 6기** (2025.03 ~ 2025.06)
 - 가천대학교 기업실무프로젝트 **DKTechin PBL** (2025.07 ~ 2025.08)
-- 가천대학교 IT 학술동아리 **Leets 6기** (2025.09 ~ ing)
+- 가천대학교 IT 학술동아리 **Leets 6기** (2025.09 ~ 2026.02)
+- 가천대학교 IT 학술동아리 **Leets 7기(운영진)** (2025.03 ~ ing)
 
 ---
 
@@ -93,8 +96,27 @@
 
 ## 🖤 GitHub Card
 
-### GitHub Stats Card
-![Chaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gachaemin&show_icons=true&theme=radical)
+### 📊 GitHub Stats
 
-### Top Languages Card
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gachaemin&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gachaemin&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gachaemin&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gachaemin&theme=radical&hide_border=true"/>
+</p>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gachaemin&theme=react-dark&hide_border=true"/>
+</p>
+
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gachaemin&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
